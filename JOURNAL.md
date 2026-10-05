@@ -39,4 +39,6 @@ Wrote a quick script for the intro reel we had to film. Then did very minimal ed
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/f6787cb48c1dcc13510dddf6f7878b8840130624f4f4ee80197926d12ad7b0de.png)
 
+Planned my schedule of when and what I am going to do for the week, due to my busy schedule.
+
 Ready for tomorrow!!! 💪
