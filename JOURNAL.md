@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — October 5th: Intro](#2026-10-05-october-5th-intro)
-2. [2026-10-06 — October 6, 2026](#2026-10-06-october-6-2026)
+2. [2026-10-06 — October 6th: PCB design STARTED!](#2026-10-06-october-6th-pcb-design-started)
 
 ## Design
 
@@ -44,20 +44,22 @@ Planned my schedule of when and what I am going to do for the week, due to my bu
 
 Ready for tomorrow!!! 💪
 
-### 2026-10-06 — October 6, 2026
+### 2026-10-06 — October 6th: PCB design STARTED!
 
 **1h**
 
-October 6, 2026
-PCB design STARTED!
+October 6th: PCB design STARTED!
 
-Started the actual project and opened KiCad but had to update to import the new symbol package.
-![Screenshot 2026-10-06 212251](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/9b1044da4f3a7d36c163870f40969e98fa44c2f040b56b11620e68fdea2fa535.png)
+Today I didn't have that much but made the most out of it! I started the actual project and opened KiCad but had to update to import the new symbol package.
+
+![Screenshot 2026-10-06 205905](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/fef3a3ceb6b2dacec1550474eb9b523bc28f5b63287581035ba8bdf12515555f.png)
 
 After that, imported all the files into my new project starbie.kicad.pro with no help by just clicking around and remembering a bit from last time.
+
 ![Screenshot 2026-10-06 210242](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/ed31629d14780182b8a04242c9f573e9272bb3e07552bd6bb1b5026d156187dd.png)
 
 Followed the tutorial and took some time actually adding the components and wiring everything together. Learned from google while doing the steps about what each things did and what they are.
-![Screenshot 2026-10-06 205905](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/fef3a3ceb6b2dacec1550474eb9b523bc28f5b63287581035ba8bdf12515555f.png)
+
+![Screenshot 2026-10-06 212251](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/9b1044da4f3a7d36c163870f40969e98fa44c2f040b56b11620e68fdea2fa535.png)
 
 Calm and successful 1 hour work session.
