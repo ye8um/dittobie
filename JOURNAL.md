@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 3 |
+| Week 1 | Tier 1 | 5.5h | 3 |
 
 ## Contents
 
@@ -67,7 +67,7 @@ Calm and successful 1 hour work session.
 
 ### 2026-10-07 – October 7th: MAJOR BREAKTHROUGH
 
-**3h**
+**2.5h**
 
 October 7th: MAJOR BREAKTHROUGH
 
@@ -86,4 +86,4 @@ DITTO!!!!! What an amazing underappreciated Pokemon. Took some time with the spl
 
 I wanted to feel like I was interacting with ditto so I put both the keycaps on its "hand". Also, I wanted the eyes and mouth to be filled in, and apparently I could use Silkscreen, so I did that. Hopefully that isn't the issue.
 
-I have no clue how this took 3 hours so not my most productive day. But, now I feel like I'm doing my own project!!!
+I have no clue how this took 2.5 hours so not my most productive day. But, now I feel like I'm doing my own project!!!
