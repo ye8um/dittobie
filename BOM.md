@@ -18,7 +18,7 @@
 | [DHT11](https://www.aliexpress.us/item/3256806110239008.html?spm=a2g0o.productlist.main.2.115d71f3R1sJwL&algo_pvid=657816f7-deeb-4f0c-b648-c902d3b7b13e&algo_exp_id=657816f7-deeb-4f0c-b648-c902d3b7b13e-1&pdp_ext_f=%7B%22order%22%3A%22440%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.06%211.09%21%21%214.06%211.09%21%402101e56817917501163371772e0e2f%2112000036654804037%21sea%21US%218283334520%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac76e175c%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=fhoT7MJbCTRT&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006296553760%7C_p_origin_prod%3A) | Temperature Sensor | 1 | $1.68 | $1.68 | [Aliexpress](https://www.aliexpress.us/item/3256806110239008.html?spm=a2g0o.productlist.main.2.115d71f3R1sJwL&algo_pvid=657816f7-deeb-4f0c-b648-c902d3b7b13e&algo_exp_id=657816f7-deeb-4f0c-b648-c902d3b7b13e-1&pdp_ext_f=%7B%22order%22%3A%22440%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.06%211.09%21%21%214.06%211.09%21%402101e56817917501163371772e0e2f%2112000036654804037%21sea%21US%218283334520%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac76e175c%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=fhoT7MJbCTRT&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006296553760%7C_p_origin_prod%3A) |
 | [PCB](https://www.jlcpcb.com/) | Actual Printed Pcb | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$26.52** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.52** | — |
+| **Tax & shipping** | — | — | — | **$40.00** | — |
+| **Total** | — | — | — | **$66.52** | — |
 
-$3.48 left of the tier's funding.
+**$36.52 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
