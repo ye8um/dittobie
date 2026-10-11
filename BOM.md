@@ -19,7 +19,7 @@
 | [PCB](https://www.jlcpcb.com/) | Actual Printed Pcb | 1 | $10.00 | $10.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | [MX-Switches](https://www.amazon.com/YPBEW-Mechanical-Keyboard-Replacement-Accessory/dp/B0D3J3C4TC/ref=sr_1_14?crid=B8Q4AN97YO8Y&dib=eyJ2IjoiMSJ9.Xx74jyqiF6xkk52vOSkMl2HnriBWFSCKI1p97jjK7gxsfbIOwteVaAdGSG2ZUZJCUS5lpQ8clgiCSxC8TOXlrsQQhego44F6DH1H8MmM77MO7ImmtXf7d4jgGZbz49YLuSa8IpVf0i9yFqeIQj_SWcIZMk0sqiofMccD1l7UXmCuPSGtOtctKGz5GvjPpcUD0XpI_Tt6WKlz1lBjzsu8BIHpmJW1q_dSvyGX86PFjmc.IST1DuTzItsjXWGkAzthmcDbJMeDha9-U3yOYE_Kv78&dib_tag=se&keywords=mx+switches&qid=1791752464&sprefix=mx+switches%2Caps%2C162&sr=8-14) | Switches for the button | 1 | $3.99 | $3.99 | [Amazon](https://www.amazon.com/YPBEW-Mechanical-Keyboard-Replacement-Accessory/dp/B0D3J3C4TC/ref=sr_1_14?crid=B8Q4AN97YO8Y&dib=eyJ2IjoiMSJ9.Xx74jyqiF6xkk52vOSkMl2HnriBWFSCKI1p97jjK7gxsfbIOwteVaAdGSG2ZUZJCUS5lpQ8clgiCSxC8TOXlrsQQhego44F6DH1H8MmM77MO7ImmtXf7d4jgGZbz49YLuSa8IpVf0i9yFqeIQj_SWcIZMk0sqiofMccD1l7UXmCuPSGtOtctKGz5GvjPpcUD0XpI_Tt6WKlz1lBjzsu8BIHpmJW1q_dSvyGX86PFjmc.IST1DuTzItsjXWGkAzthmcDbJMeDha9-U3yOYE_Kv78&dib_tag=se&keywords=mx+switches&qid=1791752464&sprefix=mx+switches%2Caps%2C162&sr=8-14) |
 | **Parts subtotal** | — | — | — | **$30.35** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$30.35** | — |
+| **Tax & shipping** | — | — | — | **$2.99** | — |
+| **Total** | — | — | — | **$33.34** | — |
 
-**$0.35 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.34 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
