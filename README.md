@@ -1,5 +1,3 @@
-# dittobie
-
 # Dittobie
 ### An Interactive Digital Desk Pet
 
