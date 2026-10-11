@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.5h | 7 |
+| Week 1 | Tier 1 | 16h | 7 |
 
 ## Contents
 
@@ -156,7 +156,7 @@ The sleeping animation is so cute and I went really basic with the eating animat
 
 ### 2026-10-11 – October 11th: Finished
 
-**2.5h**
+**3h**
 
 October 11th: Finished
 
