@@ -5,9 +5,7 @@ Dittobie is an interactive digital desk pet inspired by Ditto from Pokémon. Bui
 
 The purpose of Dittobie is to create a digital pet that feels more interactive than a character displayed on a screen. Instead of relying entirely on a computer or touchscreen, users can interact with Dittobie through physical buttons and motion-based controls.
 
-Dittobie displays a custom pixel-art character on a small OLED screen. Users can navigate its menu, choose different actions, view pet statistics, and observe animations that give the character personality. The project also explores how a microcontroller, sensors, and a custom-designed PCB can work together in a compact embedded system.
-
-This project was created to explore the relationship between hardware and software while developing practical skills in Arduino programming, circuit design, and PCB fabrication.
+Dittobie displays a custom pixel-art character on a small OLED screen. Users can navigate its menu, choose different actions, view pet statistics, and observe animations that give the character personality using the MPU6050, a motion sensor. The project also explores how a microcontroller, sensors, and a custom designed PCB can work together in a compact embedded system.
 
 ---
 
@@ -19,8 +17,8 @@ This project was created to explore the relationship between hardware and softwa
 
 ## Features
 
-- **Animated Pet Display:** Displays a custom pixel-art character on a 128×64 OLED screen.
-- **Idle Animation:** Uses multiple animation frames to give Dittobie more personality.
+- **Animated Pet Display:** Displays a custom pixel-art character 48x48 on a 128×64 OLED screen.
+- **Idle Animation:** Uses two key animation frames to give Dittobie more personality.
 - **Motion Detection:** Uses an MPU6050 sensor to detect movement and shaking.
 - **Tilt-Based Menu:** Allows the user to navigate menu options by tilting the device.
 - **Interactive Actions:** Includes NAP, PLAY, EAT, and PET menu options.
