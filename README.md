@@ -10,7 +10,7 @@ Dittobie displays a custom pixel-art character on a small OLED screen. Users can
 ---
 
 
-<img width="1211" height="701" alt="image" src="https://github.com/user-attachments/assets/630b8748-b423-4484-ad40-b9173d857c2b" />
+<img width="1107" height="827" alt="image" src="https://github.com/user-attachments/assets/42ad4a45-f821-431b-8dac-2e25f2a6d10f" />
 
 
 ---
@@ -112,4 +112,9 @@ The menu includes four actions:
 
 The firmware also includes a basic idle animation to make the character feel more alive.
 
+## Credit for the image
+
+This is their image https://www.deviantart.com/pastel-core/art/Ditto-830029949. Check their page!
 ---
+
+
