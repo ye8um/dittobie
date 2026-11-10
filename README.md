@@ -115,6 +115,7 @@ The firmware also includes a basic idle animation to make the character feel mor
 ## Credit for the image
 
 This is their image https://www.deviantart.com/pastel-core/art/Ditto-830029949. Check their page!
+
 ---
 
 
