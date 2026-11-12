@@ -69,8 +69,7 @@ $0.66 left of the tier's funding.
 
 <img width="941" height="507" alt="image" src="https://github.com/user-attachments/assets/74a652f2-c77a-4283-9afa-0ac0ca0cd5a7" />
 
-<img width="752" height="596" alt="image" src="https://github.com/user-attachments/assets/8f48c5db-efd6-42d5-88fc-a7a7782e33bf" />
-
+<img width="825" height="667" alt="Screenshot 2026-11-10 181457 - Copy" src="https://github.com/user-attachments/assets/a39baeb1-5b24-477a-9d24-e541e74e096c" />
 
 ## Software and Tools
 
